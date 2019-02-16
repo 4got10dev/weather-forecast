@@ -1,0 +1,122 @@
+{
+  "cod": "200",
+  "message": 0.005,
+  "cnt": 3,
+  "list": [
+    {
+      "dt": 1550318400,
+      "main": {
+        "temp": 13.56,
+        "temp_min": 12.6,
+        "temp_max": 13.56,
+        "pressure": 1028.81,
+        "sea_level": 1036.41,
+        "grnd_level": 1028.81,
+        "humidity": 76,
+        "temp_kf": 0.96
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 36
+      },
+      "wind": {
+        "speed": 4.23,
+        "deg": 209
+      },
+      "rain": {
+        "3h": 0.025
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2019-02-16 12:00:00"
+    },
+    {
+      "dt": 1550329200,
+      "main": {
+        "temp": 14.29,
+        "temp_min": 13.57,
+        "temp_max": 14.29,
+        "pressure": 1027.66,
+        "sea_level": 1035.25,
+        "grnd_level": 1027.66,
+        "humidity": 72,
+        "temp_kf": 0.72
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": {
+        "all": 8
+      },
+      "wind": {
+        "speed": 5.07,
+        "deg": 211
+      },
+      "rain": {
+        "3h": 0.01
+      },
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2019-02-16 15:00:00"
+    },
+    {
+      "dt": 1550340000,
+      "main": {
+        "temp": 10.73,
+        "temp_min": 10.25,
+        "temp_max": 10.73,
+        "pressure": 1027.26,
+        "sea_level": 1034.97,
+        "grnd_level": 1027.26,
+        "humidity": 85,
+        "temp_kf": 0.48
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10n"
+        }
+      ],
+      "clouds": {
+        "all": 8
+      },
+      "wind": {
+        "speed": 4.19,
+        "deg": 207.002
+      },
+      "rain": {
+        "3h": 0.01
+      },
+      "sys": {
+        "pod": "n"
+      },
+      "dt_txt": "2019-02-16 18:00:00"
+    }
+  ],
+  "city": {
+    "id": 2643743,
+    "name": "London",
+    "coord": {
+      "lat": 51.5073,
+      "lon": -0.1277
+    },
+    "country": "GB",
+    "population": 1000000
+  }
+}
