@@ -9,7 +9,7 @@ Web UI page using [OpenWeatherMap](https://openweathermap.org) API for retrievin
 so, please, make sure you have your own key [generated](https://openweathermap.org/api) and put it inside
 `application.properties` as `owm.api.key` parameter
  
-###Execution
+### Execution
 Execute gradle build (It may take a while in the first run):
 ```sh
 $ ./gradlew build
